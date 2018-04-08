@@ -1,0 +1,13 @@
+{
+    "name": "mate-code/mate-mixins",
+    "type": "library",
+    "description": "Library of LESS mixins",
+    "keywords": ["less"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Marius Teller",
+            "email": "marius.teller@mail.de"
+        }
+    ]
+}
